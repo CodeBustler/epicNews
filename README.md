@@ -1,8 +1,3 @@
-# React + Vite
+# Works only localhost
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## With newsapi.org, since 22 May 2020 they changed the liberties of the free developer keys and now they reject any request using that key that is not coming from localhost. You need to buy one of the keys intended for projects on production.
